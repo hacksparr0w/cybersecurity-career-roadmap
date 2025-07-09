@@ -158,7 +158,7 @@ cybersecurity engineering roles.
         1 month
     </td>
     <td></td>
-    <td></td>
+    <td>Mozilla's HTTP: Hypertext Transfer Protocol</td>
     <td></td>
   </tr>
   <tr>
@@ -172,7 +172,7 @@ cybersecurity engineering roles.
         1 month
     </td>
     <td></td>
-    <td></td>
+    <td>Hack This Site, Hack The Box</td>
     <td></td>
   </tr>
   <tr>
@@ -186,7 +186,7 @@ cybersecurity engineering roles.
         1 month
     </td>
     <td></td>
-    <td></td>
+    <td>Hack The Box</td>
     <td></td>
   </tr>
 </tbody>

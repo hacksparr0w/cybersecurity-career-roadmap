@@ -12,6 +12,8 @@ roles.
 
 ## Cybersecurity Roles
 
+![Cybersecurity Roles Diagram](https://github.com/hacksparr0w/cybersecurity-career-roadmap/blob/01cb6f8e30bcf02aa435ecbbea350190207c8fcd/roles.png)
+
 ## CTFs
 
 ## Resources

@@ -14,7 +14,51 @@ roles.
 
 ![Cybersecurity Roles Diagram](https://github.com/hacksparr0w/cybersecurity-career-roadmap/blob/01cb6f8e30bcf02aa435ecbbea350190207c8fcd/roles.png)
 
-## CTFs
+The cybersecurity roles can be divided into three main categories: research,
+development and administration. The research positions are oriented on
+devising new cryptography algorithms, analyzing known software and hardware
+vulnerabilities and coming up with new ones, or advancing the methods as well
+as preventative measures of software reverse engineering. The development
+positions are the sweet spot between administration and development and they
+often implement tools and utilities based on recent development advancements
+to solve a real-world administration problem. One example of a cybersecurity
+development position might be an antivirus developer or even a security
+software developer. Administration roles focus on building, running, and
+monitoring information technology infrastructure in a safe and secure manner.
+Research positions are often occupied by hyperfocused specialists that spend
+their entire lives researching a single area or even a problem of their
+interest. Research positions often require a hardcore computer science
+background or a very specific area of thorough expertise. Development
+positions require a generalist approach where individuals are required to be
+able to solve a wide variety of problems in a broad range of environments.
+Besides general knowledge of the cybersecurity landscape, development
+positions also require knowledge of many programming languages and low-level
+intricacies of modern operating systems. Administration positions are usually
+less demanding on the theoretical and experimental capabilities of an
+individual but tend to emphasize operational expertise, practical problem
+solving, and deep applied knowledge of common systems and processes.
+Administrators need to be very high on the trait of conscientiousness and
+need to constantly update their knowledge about new tools, techniques, and
+breakthroughs in their select area of expertise.
+
+The reality of any software engineering job is that an individual is
+required to basically know everything about everything and educate themselves
+constantly. This is often not realistic, and a more practical approach to this
+conundrum is the idea of the so-called
+[T-shaped engineer][the-t-shaped-engineer]. To put it in simple terms, an
+engineer should focus on one specific skill that interests him very deeply and
+continuously educate himself broadly on other branches of his domain.
+
+### Junior Roles
+
+All these roles mentioned above share a foundation in software engineering
+and computer science principles. A newcomer seeking a job in cybersecurity
+should preferably decide either on an administrator or a developer position
+and teach themselves the basic skills required for these positions. If one is
+not able to secure a job in the field of cybersecurity itself, they still may
+try to look for other junior roles in either software engineering or perhaps
+network engineering, as these jobs are still very closely tied to
+cybersecurity and their requirements are interchangeable.
 
 ## Resources
 

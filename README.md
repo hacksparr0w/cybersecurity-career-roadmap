@@ -60,6 +60,146 @@ try to look for other junior roles in either software engineering or perhaps
 network engineering, as these jobs are still very closely tied to
 cybersecurity and their requirements are interchangeable.
 
+Following is a table of skills that are deemed mandatory for junior
+cybersecurity engineering roles.
+
+<table>
+<thead>
+  <tr>
+    <th>Skill</th>
+    <th>Difficulty</th>
+    <th>ETA</th>
+    <th>Description</th>
+    <th>Resources</th>
+    <th>Project Ideas</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+        <b>Fundamental knowledge of high-level programming language such as Python</b>
+    </td>
+    <td>
+        8 / 10
+    </td>
+    <td>
+        2 - 3 months
+    </td>
+    <td>
+        <p>
+            Virtually all software engineering positions require at least a
+            rudimentary understanding of programming. If you are serious about
+            your cybersecurity career, this is absolutely necessary. Not only
+            does programming allow you to automate away a lot of the boring
+            everyday taks, but it also lets you understand the tools and
+            programs you depend on and allows you to build on them further. It
+            also opens you the door toward understanding your operating
+            system.
+        </p>
+        <p>
+            As a cybersecurity practitioner, you don't need to understand all of
+            the software architecture patterns a software development job would
+            require you to, but you have to be able to solve general algorithmic
+            problems and apply some common sense.
+        </p>
+    </td>
+    <td>
+        LeetCode, Python Programming MOOC 2023
+    </td>
+    <td>
+        Terminal-based network chat app, simple snake game clone, implementing some basic cryptography functions
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <b>Fundamentals of Computer Networking</b>
+    </td>
+    <td>
+        6 / 10
+    </td>
+    <td>
+        1 - 2 months
+    </td>
+    <td>
+        <p>
+            Once you get the basic hang of programming, you should start learning
+            about computer networking, since this is where the cyberattacking
+            actually takes place. You should start by understanding the ISO/OSI
+            model, then slowly build your way up to the most fundamental L4
+            protocols, which are TCP and UDP.
+        </p>
+        <p>
+            If you choose to go down one of the cybersecurity administration
+            roles, you should also try building your own simple network based
+            on MikroTik routers and learn all about routing, switching, ARP,
+            DHCP, DNS, and NAT, and try using all of these in your own toy
+            networks.
+        </p>
+    </td>
+    <td>
+        Cisco Networking Basics
+    </td>
+    <td>
+        Terminal-based network chat app based on different transportation protocols,
+        Toy network,
+        TCP proxy server,
+        Implementing ICMP ping utility,
+        Implementing ARP poisoning utility 
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <b>Basics of Web & HTTP</b>
+    </td>
+    <td>
+        5 / 10
+    </td>
+    <td>
+        1 month
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+        <b>Basics of Web Exploitation</b>
+    </td>
+    <td>
+        4 / 10
+    </td>
+    <td>
+        1 month
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+        <b>Basics of Binary Exploitation</b>
+    </td>
+    <td>
+        6 / 10
+    </td>
+    <td>
+        1 month
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+When trying to master any engineering skill, remember the best way to
+understand anything is to actually build it. This is also another great reason
+why learning programming should be your top priority—it gives you a very
+powerful tool to build and test almost anything you can imagine.
+
+Another great tip is to get your GitHub account up and running and publish all
+of your awesome coding projects and experiments there.
+
 ## Resources
 
 ### Common Tools
@@ -77,13 +217,19 @@ cybersecurity and their requirements are interchangeable.
  - [Awesome Reversing][awesome-reversing]
  - [Awesome Security][awesome-security]
  - [Awesome Web Security][awesome-web-security]
- - [LiveOverflow][liveoverflow]
+ - [Cisco Networking Basics][cisco-networking-basics]
  - [CTF101][ctf101]
+ - [LiveOverflow][liveoverflow]
+ - [OWASP][owasp]
+ - [Python Programming MOOC 2023][python-mooc-2023]
+ - [HTTP: Hypertext Transfer Protocol][mozilla-http]
+ - [OSI model][osi-model]
 
 ### Training
  - [Hack This Site][hts]
  - [Hack The Box][htb]
  - [Kali Training][kali-training]
+ - [LeetCode][leetcode]
 
 ### Bug Bounty
  - [HackerOne][h1]
@@ -107,6 +253,7 @@ cybersecurity and their requirements are interchangeable.
 [awesome-reversing]: https://github.com/tylerha97/awesome-reversing
 [awesome-security]: https://github.com/sbilly/awesome-security
 [awesome-web-security]: https://github.com/qazbnm456/awesome-web-security
+[cisco-networking-basics]: https://www.netacad.com/courses/networking-basics?courseLang=en-US
 [ctf101]: https://ctf101.org/
 [gen-job-01]: https://gen.wd1.myworkdayjobs.com/en-US/careers/details/Senior-Developer---Python---Automation_54159?locationCountry=fc078443155c4ad294201ecf5a61a499&workerSubType=653e04c3e21b4cd09d7852ffd748f6e5&jobFamilyGroup=f0cfdff3f4311000b8ae5a80a71b0000&timeType=18f790c7063541d8aab550a5ae88ee09&locations=a6d44a4fcb5a1001b6c18633cb040000&locations=1ca59a2b28c60100b979ae85cbe00000
 [gen-job-02]: https://gen.wd1.myworkdayjobs.com/en-US/careers/details/Senior-Software-Engineer_54450?locationCountry=fc078443155c4ad294201ecf5a61a499&workerSubType=653e04c3e21b4cd09d7852ffd748f6e5&jobFamilyGroup=f0cfdff3f4311000b8ae5a80a71b0000&timeType=18f790c7063541d8aab550a5ae88ee09&locations=a6d44a4fcb5a1001b6c18633cb040000&locations=1ca59a2b28c60100b979ae85cbe00000
@@ -119,15 +266,20 @@ cybersecurity and their requirements are interchangeable.
 [htb]: https://www.hackthebox.com/
 [hts]: https://www.hackthissite.org/
 [python]: https://www.python.org/
+[python-mooc-2023]: https://programming-23.mooc.fi/
 [kali]: https://www.kali.org/
 [kali-training]: https://www.kali.org/docs/general-use/kali-training/
+[leetcode]: https://leetcode.com/
 [liveoverflow]: https://www.youtube.com/liveoverflow
 [metasploit]: https://www.metasploit.com/
 [mitmproxy]: https://mitmproxy.org/
+[mozilla-http]: https://developer.mozilla.org/en-US/docs/Web/HTTP
 [nis2]: https://portal.nukib.gov.cz/pruvodce-smernici-nis2
 [nmap]: https://nmap.org/
 [nukib-job-01-archive]: https://web.archive.org/web/20250709104339/https://nukib.gov.cz/cs/o-nukib/kariera/bezpecnostni-specialista/
 [nukib-job-01-original]: https://nukib.gov.cz/cs/o-nukib/kariera/bezpecnostni-specialista/
+[osi-model]: https://en.wikipedia.org/wiki/OSI_model
+[owasp]: https://owasp.org/
 [r2]: https://github.com/radareorg/radare2
 [skoda-job-01-archive]: https://web.archive.org/web/20250212082948/https://www.skoda-kariera.cz/prace-ve-skoda/detail-pozice/53632
 [skoda-job-01-original]: https://www.skoda-kariera.cz/prace-ve-skoda/detail-pozice/53632
